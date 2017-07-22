@@ -27,11 +27,7 @@ padding:0;
 margin:0;
 font-family: 'Lato', sans-serif !important;
 background: url("http://api.ikmoe.com/moeu-rand-background.php") no-repeat 0px 0px;
-background-size:cover;
--webkit-background-size: cover;
--o-background-size: cover;
--ms-background-size: cover;
--moz-background-size: cover;
+
 
 }
 
