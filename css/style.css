@@ -26,8 +26,12 @@ body{
 padding:0;
 margin:0;
 font-family: 'Lato', sans-serif !important;
-background: url("http://api.ikmoe.com/moeu-rand-background.php") no-repeat 0px 0px;
-
+background: url(http://api.ikmoe.com/moeu-rand-background.php) no-repeat 0px 0px;
+background-size:cover;
+-webkit-background-size: cover;
+-o-background-size: cover;
+-ms-background-size: cover;
+-moz-background-size: cover;
 
 }
 
@@ -256,7 +260,7 @@ background:url(../images/social.png) no-repeat -120px 0px;
 	    margin: 0 0 0 7em;
 	}
 	body {
-		background: url(../images/1.jpg) no-repeat -340px 0px !important;
+		background: url(http://api.ikmoe.com/moeu-rand-background.php) no-repeat -340px 0px !important;
 	}
 	.favourites ul li a.eye {
 		background: url(../images/image-sprite.png) no-repeat 40px 8px;
@@ -279,7 +283,7 @@ background:url(../images/social.png) no-repeat -120px 0px;
 		margin: 18px 0;
 	}	
 	body {
-		background: url(../images/1.jpg) no-repeat -465px 0px !important;
+		background: url(http://api.ikmoe.com/moeu-rand-background.php) no-repeat -465px 0px !important;
 	}
 }
 @media (max-width: 991px){
@@ -309,7 +313,7 @@ background:url(../images/social.png) no-repeat -120px 0px;
 		font-size: 14px;
 	}
 	body {
-		background: url(../images/1.jpg) no-repeat -641px 0px !important;
+		background: url(http://api.ikmoe.com/moeu-rand-background.php) no-repeat -641px 0px !important;
 	}	
 }
 @media (max-width: 768px){
@@ -345,7 +349,7 @@ background:url(../images/social.png) no-repeat -120px 0px;
 		width: 47%;
 	}
 	body {
-		background: url(../images/1.jpg) no-repeat -712px 0px !important;
+		background: url(http://api.ikmoe.com/moeu-rand-background.php) no-repeat -712px 0px !important;
 	}	
 }
 @media (max-width: 640px){
@@ -387,7 +391,7 @@ background:url(../images/social.png) no-repeat -120px 0px;
 		font-size: 13px;
 	}
 	body {
-		background: url(../images/1.jpg) no-repeat -816px 0px !important;
+		background: url(http://api.ikmoe.com/moeu-rand-background.php) no-repeat -816px 0px !important;
 	}
 }
 @media (max-width: 414px){
